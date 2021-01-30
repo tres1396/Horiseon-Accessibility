@@ -8,4 +8,4 @@ Horiseon is an SEO services company that improves website visibility, online rep
 
 ## Link
 
-https://tres1396.github.io/Horiseon-Accessibility/
+https://tres1396.github.io/Horiseon-Accessibility/HWEdit.html
